@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 const Navbar = () => {
@@ -10,14 +11,14 @@ const Navbar = () => {
             <h1 className="text-2xl">LOGO</h1>
           </div>
           <div className='flex xl:gap-10 md:gap-8  gap-2'>
-            <a href="">Home</a>
-            <a href="">Work</a>
-            <a href="">About</a>
-            <a href="">Services</a>
-            <a href="">Testimonial</a>
+            <Link href="">Home</Link>
+            <Link href="">Work</Link>
+            <Link href="/about">About</Link>
+            <Link href="">Service</Link>
+            <Link href="">TestimoniLinkl</Link>
           </div>
           <div>
-            <button className='py-2 px-6 bg-black text-white rounded-3xl font-semibold'>Contact</button>
+            <button className='py-2 px-6 bg-black text-white rounded-3xl font-semibold'><Link href="/contact">Contact</Link></button>
           </div>
         </div>
         
