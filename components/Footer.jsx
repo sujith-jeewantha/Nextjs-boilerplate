@@ -36,12 +36,12 @@ const Footer = () => {
             <h3 className="text-lg font-bold mb-4">Contact Us</h3>
             <ul className="mb-4">
                 <li><a href="tel:+1514890000" className="hover:text-yellow-400">1-514-890-0000</a></li>
-                <li><a href="mailto:calinscompagnies@calins.com" className="hover:text-yellow-400">Send mail</a></li>
+                <li><a href="mailto:sujith.jeewantha@gmail.com" className="hover:text-yellow-400">Send mail</a></li>
             </ul>
             <div className="mt-4 icons">
                 <a href="#" className="mr-2"><i className="fab fa-facebook fa-2x"></i></a>
                 <a href="#" className="mr-2"><i className="fab fa-instagram fa-2x"></i></a>
-                <a href="mailto:calinscompagnies@calins.com"><i className="far fa-envelope fa-2x"></i></a>
+                <a href="mailto:sujith.jeewantha@gmail.com"><i className="far fa-envelope fa-2x"></i></a>
             </div>
         </div>
     </div>
