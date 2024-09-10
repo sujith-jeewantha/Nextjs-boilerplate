@@ -10,7 +10,7 @@ const Footer = () => {
             <p className="mb-2">123 Example Street, Example City, Example Country</p>
             <p className="mb-2"><a href="tel:+1514890000" className="hover:text-yellow-400">1-514-890-0000</a></p>
             <p><a href="mailto:calinscompagnies@calins.com"
-                    className="hover:text-yellow-400">calinscompagnies@calins.com</a></p>
+                    className="hover:text-yellow-400">sujith.jeewantha@gmail.com</a></p>
         </div>
         <div className="mb-8 md:mb-0">
             <h3 className="text-lg font-bold mb-4">Example</h3>
